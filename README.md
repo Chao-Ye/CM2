@@ -8,8 +8,8 @@
 </div>
 
 <h3 align="center"> 
-<a href="https://holyphd-my.sharepoint.com/:f:/g/personal/yc_holyphd_onmicrosoft_com/EvHXPwetLg5MgQX9tQLiFkcBxhPuOhGWx5VP6meMPq2FnA?e=3ci1QI"> 😀 Pretraining Model (CM2-v1) </a> |
-<a href="https://holyphd-my.sharepoint.com/:f:/g/personal/yc_holyphd_onmicrosoft_com/EmlUjuSQhiFKo8PvvfrLSTQBZs2s_dTDFU47xb8CZpvvuQ?e=MsTDNL"> 📕 Pretraining Dataset (OpenTabs) </a> 
+<a href="https://mega.nz/file/Qj8nAS5J#LD43dkt6IhX483tJpLuGx006d6W_zPaMPPezuN9DsNc"> 😀 Pretraining Model (CM2-v1) </a> |
+<a href="https://mega.nz/file/oqUlgbCa#AwNrJD6RDTIroZbJhMUIe5hS2y_DpBGMPLnsutZcAL0"> 📕 Pretraining Dataset (OpenTabs) </a> 
 </h3>
 </div>
 
